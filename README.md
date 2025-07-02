@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/RashmikaFernando-dev/RashmikaFernando-dev/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rashmika Fernando</h1>
 <h3 align="center">Aspiring Web Developer | Passionate About Crafting User-Centered Designs</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/RashmikaFernando-dev/RashmikaFernando-dev/blob/main/BgPsProfile.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmikafernando-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rashmikafernando-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
