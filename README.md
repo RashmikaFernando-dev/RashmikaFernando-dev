@@ -1,4 +1,4 @@
-![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
+![MasterHead](https://github.com/RashmikaFernando-dev/RashmikaFernando-dev/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rashmika Fernando</h1>
 <h3 align="center">Aspiring Web Developer | Passionate About Crafting User-Centered Designs</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
